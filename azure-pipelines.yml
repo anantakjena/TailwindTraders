@@ -1,6 +1,6 @@
 variables:
   azureSubscription: 4d69f1b3-e2fe-4089-aecc-253c77ec49b3
-  resourcegroup: anantatechTailwindTradersRG
+  resourcegroup: akjTailwindTradersRG
   location: UKSouth
   ImageName: website
 
